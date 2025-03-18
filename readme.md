@@ -26,7 +26,7 @@ This project is a **REST API** that allows users to ask questions about a given 
 ## 📦 Installation
 
 1. **Clone the Repository**
-   git clone [https://github.com/yourusername/git-qa-system.git](https://github.com/SangeethaY-GenAI/GIT-QA-BOT.git)
+   git clone [https://github.com/SangeethaY-GenAI/GIT-QA-BOT.git]
    cd git-qa-system
 
 2.  **Create Virtual Environment**
