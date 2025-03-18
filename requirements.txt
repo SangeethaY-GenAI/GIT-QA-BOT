@@ -1,0 +1,6 @@
+flask
+openai
+gitpython
+langchain
+faiss-cpu
+requests
